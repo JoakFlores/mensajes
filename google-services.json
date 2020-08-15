@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873478158072",
+    "firebase_url": "https://ejercicio-fa663.firebaseio.com",
+    "project_id": "ejercicio-fa663",
+    "storage_bucket": "ejercicio-fa663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873478158072:android:cc634fe6c78be34f772d0d",
+        "android_client_info": {
+          "package_name": "com.mensajes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873478158072-3dpvt38q94uorno9cuo3ijkdsa4b2nqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSZi6OnAoC4PNE1Fye6nHkCR_YIgdTlTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873478158072-3dpvt38q94uorno9cuo3ijkdsa4b2nqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
